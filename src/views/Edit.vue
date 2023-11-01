@@ -1,0 +1,3 @@
+<template>
+    Editar funcionário
+</template>
